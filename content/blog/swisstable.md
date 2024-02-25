@@ -13,3 +13,4 @@ Links:
 - [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://youtu.be/ncHmEUmJZf4) - This is an intro video, which shows a how a typical hash table is built in languages, then step by step it discards and builds SwissTable from scratch.
 - Two years later, they released one more video with the updates - [Abseil's Open Source Hashtables: 2 Years In](https://www.youtube.com/watch?v=JZE3_0qvrMg)
 - DoltHub ported this to Go, called [SwissMap](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
+- [GopherCon 2016: Keith Randall - Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns)

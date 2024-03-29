@@ -25,3 +25,5 @@ git fetch git@github.com:penberg/libsql.git durable-wal:wal
 git checkout -b test-pr
 git pull origin pull/1170/head
 ```
+
+source: [stack overflow](https://stackoverflow.com/questions/5884784/how-to-pull-remote-branch-from-somebody-elses-repo)

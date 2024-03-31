@@ -12,3 +12,6 @@ git rebase --exec "cmd.sh"
 ```
 
 An equivalent would be, do git rebase without exec, then run git bisect if the tests fail. So, depending on the workflow, you may choose either of options.
+
+There are some more tricks here - [git as debugging tool
+](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
